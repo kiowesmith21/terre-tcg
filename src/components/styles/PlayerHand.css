@@ -1,0 +1,10 @@
+.player-hand {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    flex-wrap: wrap;
+    padding: 10px;
+    background-color: #f9f9f9; /* Light background for distinction */
+    border-top: 2px solid #ccc;
+  }
+  
